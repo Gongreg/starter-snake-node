@@ -20,11 +20,11 @@ This is a basic implementation of the [Battlesnake API](https://docs.battlesnake
 
 ## Running Your Battlesnake on [Repl.it](https://repl.it)
 
-[![Run on Repl.it](https://repl.it/badge/github/BattlesnakeOfficial/starter-snake-node)](https://repl.it/github/BattlesnakeOfficial/starter-snake-node)
+[![Run on Repl.it](https://repl.it/badge/github/Gongreg/starter-snake-node)](https://repl.it/github/Gongreg/starter-snake-node)
 
 1. Login to your [Repl.it](https://repl.it) account.
 
-2. Click the 'Run on Repl.it' button above, or visit the following URL: https://repl.it/github/BattlesnakeOfficial/starter-snake-node.
+2. Click the 'Run on Repl.it' button above, or visit the following URL: https://repl.it/github/Gongreg/starter-snake-node.
 
 3. You should see your Repl being initialized - this might take a few moments to complete.
 
